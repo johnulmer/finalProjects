@@ -30,4 +30,4 @@ Deliver support & google-based supplementation of modern day corporate training 
 "good question, you should go look that up!"
 * Save time by uploading training outlines and curricula, get back a digest of search results from stackoverflow and mykong and a list of matching projects hosted on github
 * ReverseTurnitin - submit an instructor's assignment, find out who actually wrote it for them, and now you can go directly to the original author with questions!
-* Instructor Background Check (already implemented) - now you can do more extensive research than the training vendor on the staff they've hired! [Research an Instructor](http://bfy.tw/ClSH)
+* Instructor Background Check (already implemented) - now you can do more extensive research than the training vendor did on the staff they've hired! [Research an Instructor](http://bfy.tw/ClSH)
