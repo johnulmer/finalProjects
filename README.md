@@ -17,7 +17,7 @@ typically are available through employment.
 * Sets up users for success by showing the power of early investment
 * Branding establishes positive view of sponsoring company
 
-## R-P-G-o-RAMA
+## R-P-G-o-R-A-M-A
 An integrated site to support the Pathfinder role-playing game system.
 * Character creation - integrate with pcgen tool?
 * Character repository - store chars, access for games, track progress, public / private options
